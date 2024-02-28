@@ -1,0 +1,14 @@
+[
+	{
+		"SourceBaseURL":"https://raw.githubusercontent.com/",
+		"SourceRelativeURL":"VNannuri/sampledatasets/main/Orders.csv",
+		"sinkFileName":"Orders.csv"
+
+	},
+	{
+		"SourceBaseURL":"https://raw.githubusercontent.com/",
+		"SourceRelativeURL":"VNannuri/sampledatasets/main/Returns.csv",
+		"sinkFileName":"Returns.csv"
+	}
+
+]
