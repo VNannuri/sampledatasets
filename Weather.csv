@@ -1,0 +1,5 @@
+﻿EST,Temperature,DewPoint,Humidity,SeaLevelPressureIn,VisibilityMiles,WindSpeedMPH,Precipitation,CloudCover,Events,WindDirDegree
+1/9/2016,44,38,77,30.16,9,8,T,8,Rain,76
+1/10/2016,50,46,71,29.59,4,,1.8,7,Rain,109
+1/16/2016,47,37,70,29.52,8,7,0.24,7,Rain,340
+1/27/2016,41,22,45,30.03,10,7,T,3,Rain,311
